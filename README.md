@@ -41,7 +41,6 @@
 
 ⋆ building **naiados** ⟡ an arch-based linux distro
 　⌇ debloated custom kernel ⊹ c++ ncurses installer ⊹ native tools
-　⌇ a guide, not a gatekeeper
 　⌇ in beta ⋆ going public soon
 
 <div align="center">
