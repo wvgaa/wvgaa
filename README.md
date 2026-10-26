@@ -1,26 +1,26 @@
 <div align="center">
 
-### ⋆｡˚ ☾ ˚₊‧ wvga ‧₊˚ ☾ ˚｡⋆
+### wvga 
 
-<sub>░▒▓█ ⊹ programming ⋆ music ⋆ linux ⊹ █▓▒░</sub>
+<sub>░▒▓█ ⊹ programming music linux  █▓▒░</sub>
 
 </div>
 
 ```text
        .,;::llll::;,   ..
-      .;ldddddddddddddd:,  ,,         ˚₊‧ wvga@naiados ‧₊˚
+      .;ldddddddddddddd:,  ,,            wvga@naiados 
      ;dddddd,   ,dddddddd:   d;       ─────── ⊹ ───────
-   ,ldd;            dddddd,   dl.     ⋆ name     ⟡ wvga
-  ,dd.       .::;    ddddd:   .dl.    ⋆ from     ⟡ germany ⋆ poland
- .d,         .ddd.   ddddd.    ddl    ⋆ os       ⟡ naiados
- d.  .;:llll:;, ld::ldddl      ddd.   ⋆ shell    ⟡ fish
-,;  :dddddddddd;      ;;.     .ddd;   ⋆ editor   ⟡ vscode
-,  ldddddl   ;dd.  .;ldddl    lddd,   ⋆ likes    ⟡ programming ⋆ music ⋆ linux
-  ,ddddd;    .dd .ld;  .;    :dddd.   ⋆ building ⟡ my own distro
+   ,ldd;            dddddd,   dl.       user     ⟡ wvga
+  ,dd.       .::;    ddddd:   .dl.      from     ⟡ germany ⋆ poland
+ .d,         .ddd.   ddddd.    ddl      os       ⟡ naiados
+ d.  .;:llll:;, ld::ldddl      ddd.     shell    ⟡ fish
+,;  :dddddddddd;      ;;.     .ddd;     editor   ⟡ vscode
+,  ldddddl   ;dd.  .;ldddl    lddd,     music; linux; programming
+  ,ddddd;    .dd .ld;  .;    :dddd.   
   ,ddddd.  ,:dd:.ddd       ,ldddd;
-   ddddd:  ,dd: ;dddl;,,,;lddddd:     ░▒▓█ ˚₊‧ no hand-holding ‧₊˚ █▓▒░
+   ddddd:  ,dd: ;dddl;,,,;lddddd:     
    .ddddd,       dddddddddddddd.
-     ldddd:.      .dddddddddl           ✧ ˚ ⊹ ☾ ⋆｡˚ ✦ ˚｡⋆ ☾ ⊹ ˚ ✧
+     ldddd:.      .dddddddddl           
        :dddd:,
           ;ddddl:;,,,,,,;
 ```
@@ -31,22 +31,19 @@
 
 </div>
 
-#### ˚₊‧ ☾ about ☾ ‧₊˚
+####        about 
 
-⋆ hi, i'm **wvga** ⟡ germany ⋆ poland
-⋆ programming, music & linux ⊹ usually all at once
-⋆ i like software that stays out of your way
+⋆ hi, i'm **wvga**  germany & poland
+⋆ programming, music & linux 
 
-#### ˚₊‧ ☾ currently ☾ ‧₊˚
+####        currently 
 
-⋆ building **naiados** ⟡ an arch-based linux distro
-　⌇ debloated custom kernel ⊹ c++ ncurses installer ⊹ native tools
-　⌇ in beta ⋆ going public soon
+⋆ building **naiados** an arch-based linux distro
+  in beta ⋆ going public soon
 
 <div align="center">
 
-✧ ─────── ⋆｡˚ ⊹ ˚｡⋆ ─────── ✧
 
-<sub>˚₊‧ made in a terminal ‧₊˚</sub>
+<sub> made in a terminal </sub>
 
 </div>
